@@ -1,5 +1,8 @@
 # TSLint Config ZA
 
+[![NPM version](https://img.shields.io/npm/v/tslint-config-za.svg?style=flat)](https://www.npmjs.com/package/tslint-config-za)
+[![Downloads](http://img.shields.io/npm/dm/tslint-config-za.svg?style=flat)](https://npmjs.org/package/tslint-config-za)
+
 ## Installation
 
 ```sh

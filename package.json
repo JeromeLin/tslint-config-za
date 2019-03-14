@@ -1,6 +1,6 @@
 {
   "name": "tslint-config-za",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A TSLint config for ZhongAn JavaScript Style",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JeromeLin/tslint-config-za.git"
+    "url": "git+https://github.com/ZhonganTechENG/tslint-config-za.git"
   },
   "keywords": [
     "tslint",
@@ -22,9 +22,9 @@
   "author": "jerome.lin@zhongan.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JeromeLin/tslint-config-za/issues"
+    "url": "https://github.com/ZhonganTechENG/tslint-config-za/issues"
   },
-  "homepage": "https://github.com/JeromeLin/tslint-config-za#readme",
+  "homepage": "https://github.com/ZhonganTechENG/tslint-config-za#readme",
   "devDependencies": {
     "@commitlint/cli": "^7.5.2",
     "@commitlint/config-conventional": "^7.5.0",
